@@ -1,0 +1,13 @@
+D:\Visual Studio\WPFDataGRidTest\WPFDataGRidTest\bin\Debug\WPFDataGRidTest.exe.config
+D:\Visual Studio\WPFDataGRidTest\WPFDataGRidTest\bin\Debug\WPFDataGRidTest.exe
+D:\Visual Studio\WPFDataGRidTest\WPFDataGRidTest\bin\Debug\WPFDataGRidTest.pdb
+D:\Visual Studio\WPFDataGRidTest\WPFDataGRidTest\obj\Debug\WPFDataGRidTest.csprojResolveAssemblyReference.cache
+D:\Visual Studio\WPFDataGRidTest\WPFDataGRidTest\obj\Debug\MainWindow.baml
+D:\Visual Studio\WPFDataGRidTest\WPFDataGRidTest\obj\Debug\MainWindow.g.cs
+D:\Visual Studio\WPFDataGRidTest\WPFDataGRidTest\obj\Debug\App.g.cs
+D:\Visual Studio\WPFDataGRidTest\WPFDataGRidTest\obj\Debug\WPFDataGRidTest_MarkupCompile.cache
+D:\Visual Studio\WPFDataGRidTest\WPFDataGRidTest\obj\Debug\WPFDataGRidTest.g.resources
+D:\Visual Studio\WPFDataGRidTest\WPFDataGRidTest\obj\Debug\WPFDataGRidTest.Properties.Resources.resources
+D:\Visual Studio\WPFDataGRidTest\WPFDataGRidTest\obj\Debug\WPFDataGRidTest.csproj.GenerateResource.Cache
+D:\Visual Studio\WPFDataGRidTest\WPFDataGRidTest\obj\Debug\WPFDataGRidTest.exe
+D:\Visual Studio\WPFDataGRidTest\WPFDataGRidTest\obj\Debug\WPFDataGRidTest.pdb
